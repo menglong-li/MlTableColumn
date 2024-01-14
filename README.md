@@ -3,6 +3,7 @@
 ### 简介
 基于`vue3` `element plus` 组件库的 `el-table-column` 组件, 支持根据列内容自适应列宽。
 省去人力计算宽度步骤。
+![](https://github.com/menglong-li/MlTableColumn/blob/main/about.gif)
 ### 安装
 ```
 npm install ml-table-column
